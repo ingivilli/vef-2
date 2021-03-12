@@ -1,0 +1,75 @@
+.border {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width:50em;
+    display: flex;
+    box-shadow: inset 0 0 3em #999;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.typpi {
+    opacity: 0;
+}
+.auglysing {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width:50em;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    padding: 20px;
+    transition: font-size 5s;
+    overflow:hidden;
+}
+.txt1:hover {
+    font-size:150%;
+}
+.txt1 {
+    position: relative;
+    animation-name: txt1;
+    animation-duration: 10s;
+    text-align:center;
+    transition: font-size 5s;
+    color: black;
+    animation-iteration-count: infinite;
+}
+.txt2 {
+    opacity:0;
+    position: relative;
+    animation-name: txt2;
+    animation-duration: 10s;
+    animation-delay:10s;
+    text-align:center;
+    color: black;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in-out;
+}
+.ljoturhundur {
+    animation-name: fadein;
+    animation-duration: 7s;
+    border-radius: 10px;
+}
+@keyframes fadein {
+    0% {opacity:0;}
+    100% {opacity:1;transform:rotate(360deg);}
+}
+@keyframes txt1 {
+    0% {color:red; left:0; right:0;}
+    25% {color:yellow; left:20px; right:0; transform: rotate(-20deg);}
+    50% {color: blue; left:0; right:20px; transform: rotate(20deg);}
+    75% {color: green;}
+    100% {color:red;left:0;left:0;}
+}
+@keyframes txt2 {
+    from{opacity:0;}
+    50%{font-size:150%;}
+    to{opacity:1;}
+}
