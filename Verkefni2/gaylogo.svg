@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="gaylogo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="5.4273569"
+     inkscape:cy="261.27318"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g77"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1274"
+     inkscape:window-height="1041"
+     inkscape:window-x="104"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g77">
+      <path
+         d="M 39.849702,96.464336 H 54.417796 V 139.6748 H 39.849702 Z"
+         style="font-size:10.5833px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:1.54323"
+         id="path16" />
+      <path
+         d="M 104.02399,96.464336 V 139.6748 H 92.048515 L 75.628538,120.0449 v 19.6299 H 61.430815 V 96.464336 H 73.406291 L 89.826262,116.09424 V 96.464336 Z"
+         style="font-size:10.5833px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:1.54323"
+         id="path18" />
+      <path
+         d="m 139.68419,116.89676 h 12.65449 v 18.27181 q -3.82721,2.65435 -8.88901,4.07414 -5.06179,1.4198 -9.9384,1.4198 -6.91368,0 -12.40758,-2.83959 -5.4939,-2.90125 -8.64209,-8.02481 -3.08646,-5.18521 -3.08646,-11.72851 0,-6.5433 3.08646,-11.66687 3.14819,-5.18521 8.70382,-8.024743 5.61736,-2.901302 12.65449,-2.901302 6.35811,0 11.35818,2.160549 5.0618,2.098781 8.39517,6.172926 l -9.32111,8.20993 q -4.07413,-4.75312 -9.69149,-4.75312 -4.81487,0 -7.65442,2.9013 -2.83955,2.90124 -2.83955,7.90133 0,4.8766 2.77782,7.83961 2.83954,2.96302 7.53097,2.96302 2.77781,0 5.30871,-1.04942 z"
+         style="font-size:10.5833px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:1.54323"
+         id="path20" />
+      <path
+         d="m 158.60613,96.464336 h 14.56812 V 139.6748 h -14.56812 z"
+         style="font-size:10.5833px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:1.54323"
+         id="path22" />
+      <rect
+         style="fill:#000000;stroke-width:5.06514"
+         id="rect85"
+         width="66.557907"
+         height="28.805771"
+         x="-12.140128"
+         y="96.464355" />
+      <rect
+         y="96.464355"
+         x="158.60614"
+         height="28.805771"
+         width="101.83749"
+         id="rect96"
+         style="fill:#000000;stroke-width:6.26536" />
+      <rect
+         y="96.464355"
+         x="-42.211857"
+         height="14.403857"
+         width="96.629631"
+         id="rect107"
+         style="fill:#000000;stroke-width:4.31565" />
+      <rect
+         style="fill:#000000;stroke-width:4.94948"
+         id="rect107-1"
+         width="127.09836"
+         height="14.403857"
+         x="158.60614"
+         y="96.464355" />
+    </g>
+  </g>
+</svg>

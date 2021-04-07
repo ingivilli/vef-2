@@ -1,0 +1,20 @@
+body {
+    position:fixed;
+    top:40%; 
+    margin:auto;
+}
+.a {
+    animation-name:hi;
+    animation-duration:3s;
+}
+.c {
+    animation-name:hi;
+    animation-duration:3s;
+}
+.f {
+    animation-name:hi;
+    animation-duration:3s;
+}
+@keyframes hi {
+    0% {width: 70px;}
+}
