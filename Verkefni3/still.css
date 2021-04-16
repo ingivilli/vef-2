@@ -1,9 +1,26 @@
-.camera:hover{
+body {
+    display: block;
+}
+nav {
+    position:fixed;
+    z-index:10;
+    left:0;
+    right:0;
+    top:0;
+    height: 100px;
+    background:burlywood;
+
+}
+.s {
+    color:sienna;
+
+}
+.c:hover{
     color:lightcoral;
 }
-.tv:hover{
+.d:hover{
     color:mediumpurple;
 }
-.frustrated:hover{
+.h:hover{
     color:limegreen;
 }

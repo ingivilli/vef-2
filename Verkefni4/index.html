@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<table>
+    <caption>Statement Summary</caption>
+    <thead>
+      <tr>
+        <th scope="col">Account</th>
+        <th scope="col">Due Date</th>
+        <th scope="col">Amount</th>
+        <th scope="col">Period</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td data-label="Account">Visa - 3412</td>
+        <td data-label="Due Date">04/01/2021</td>
+        <td data-label="Amount">$3214</td>
+        <td data-label="Period">03/01/2016 - 03/31/2016</td>
+      </tr>
+    </tbody>
+    <tbody>
+        <tr>
+          <td data-label="Account">Visa - 4315</td>
+          <td data-label="Due Date">04/01/2021</td>
+          <td data-label="Amount">4340</td>
+          <td data-label="Period">03/01/2016 - 03/31/2016</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td data-label="Account">Visa - 49301</td>
+          <td data-label="Due Date">05/01/2021</td>
+          <td data-label="Amount">$2323</td>
+          <td data-label="Period">03/01/2024 - 03/31/2053</td>
+        </tr>
+      </tbody>
+  </table>
+  <form>
+      <label for="fnafn">Fullt Nafn</label>
+      <input type="text" id="fnafn" name="fnafn" placeholder="Jón Jónson.." required>
+      <label for="snum">Símanúmer</label>
+      <input type="tel" id="snum" name="snum" placeholder="123 4567" required minlength="7" maxlength="7" pattern="[0-9]+">
+      <label for="tp">Tölvupóstur</label>
+      <input type="text" id="tp" placeholder="typpi@typpi.typpi" required pattern="[a-z]+@[a-z]+.[a-z]+">
+      <label for="d">Dagsetning</label>
+      <input type="date" id="d" name="d" required>
+      <hr>
+      <label>ertu vélmenni?</label>
+      <input type="radio">
+      <label>nei</label>
+      <input type="radio">
+      <label>nei</label>
+      <input type="radio">
+      <label>nei</label>
+      <hr>
+      <label>ertu viss?!!!?!?!?!</label>
+      <input type="checkbox">
+      <label>ja</label>
+      <input type="checkbox">
+      <label>nei</label>
+      <input type="checkbox">
+      <label>nei</label>
+      <hr>
+      <label for="s">Hvort myndiru frekar vilja</label>
+      <select id="s">
+        <option>Lamborghini</option>
+        <option>Ferarri</option>
+      </select>
+      <textarea id="athsemdir" placeholder="skrifaðu eih hérna..... mjá :3" style="height:200px" required></textarea>
+      <input type="submit" value="Senda inn">
+  </form>
+  
